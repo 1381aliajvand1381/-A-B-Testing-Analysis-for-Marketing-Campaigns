@@ -17,9 +17,13 @@ Conducted **A/B testing** to evaluate the effectiveness of two versions of an **
 - **Power BI** for data visualization
 
 # 🔍 Insights & Conclusions
+
     -Statistical significance confirmed: The p-value was less than 0.05, indicating a meaningful difference between the test and control groups.
+
     -Test group achieved higher conversion rates, proving the new email version is more effective.
+    
     -Higher advertising spend correlated with increased purchase behavior.
+    
     -Personalized marketing strategies led to improved engagement and response rates.
 
 # 📩 Contact & Feedback
