@@ -41,6 +41,6 @@ Feel free to reach out if you have questions or suggestions!
 ## 🚀 How to Use
 1. **Clone the repository**:
    ```bash
-    git clone https://github.com/1381aliajvand1381/ab-testing-marketing.git
+    git clone https://github.com/1381aliajvand1381/-A-B-Testing-Analysis-for-Marketing-Campaigns.git
 
 ##  **"To run Power BI, the Python program must be executed first.**
